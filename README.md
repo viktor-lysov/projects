@@ -13,6 +13,9 @@
   * Проверены гипотезы относительно активности пользователей различных устройств
 * Вывод и рекомендации<br>
 
-[🔗Ссылка на дашборд DataLens](https://datalens.yandex/w7toi8r6gkxih)
+[🔗Jyputer Notebook](https://github.com/viktor-lysov/projects/blob/main/afisha_metrics/afisha_metrics.ipynb)<br>
+
+[🔗Дашборд DataLens](https://datalens.yandex/w7toi8r6gkxih)<br>
+
 стек: `Python`, `SQL`, `DataLens`, `pandas`, `numpy`, `scipy`, `matplotlib`, `seaborn`<br>
 ##
