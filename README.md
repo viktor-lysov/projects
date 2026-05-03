@@ -12,6 +12,7 @@
 [🔗Дашборд DataLens](https://datalens.yandex/6hat5sj7rzhkq)<br>
 
 стек: `SQL`, `Datalens`
+##
 
 ### 📂 Исследование ключевых метрик сервиса Афиша<br>
 * Предобработка данных
